@@ -43,7 +43,7 @@ Contents of `backend/.env.example`:
 DATABASE_URL=postgresql://postgres.[project-ref]:[password]@aws-0-[region].pooler.supabase.com:6543/postgres
 TEMPORAL_HOST=localhost:7233
 GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-1.5-flash
+GEMINI_MODEL=gemini-3.5-flash
 DEFAULT_WAKEUP_SECONDS=30
 APP_ENV=development
 LOG_LEVEL=INFO
